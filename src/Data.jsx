@@ -175,7 +175,7 @@ const Data = () => {
             <div className="flexcolumn2">
               <img
                 className="img2"
-                src="../src/assets/icon/dd.PNG"
+                src="../public/icon/dd.PNG"
                 alt="dislikes"
               />{" "}
               <h1> {dislikes}</h1>
