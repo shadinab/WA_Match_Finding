@@ -1,7 +1,6 @@
-
 Welcome to the Vegetable Game! In this simple and fun game, you'll be presented with images of various vegetables, and your goal is to guess the name of the vegetable. You have the opportunity to earn likes for correct answers and dislikes for incorrect ones.
 
-![Vegetable Game Screenshot](https://example.com/vegetable-game-screenshot.png)
+![Vegetable Game Screenshot](./src/assets/ReadeMe01.PNG)
 
 ## How to Play
 
@@ -42,5 +41,7 @@ Contributions to the Vegetable Game are welcome! If you have ideas for new veget
 ## License
 
 Thank you for playing the Vegetable Game! We hope you have a great time guessing vegetables and earning likes.
+
 ```
 
+```
