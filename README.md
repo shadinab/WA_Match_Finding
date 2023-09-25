@@ -41,9 +41,6 @@ Contributions to the Vegetable Game are welcome! If you have ideas for new veget
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 Thank you for playing the Vegetable Game! We hope you have a great time guessing vegetables and earning likes.
 ```
 
-In this README, you would replace the image URL (`https://example.com/vegetable-game-screenshot.png`) with the actual URL of the game's screenshot. This README provides an overview of the game, how to play it, and what features it offers. It also includes information on installation, contributing, and licensing.
